@@ -56,5 +56,10 @@ Check out my personal portfolio website 👉 [hodortech.in](http://hodortech.in)
 - 🌍 Portfolio: [hodortech.in](http://hodortech.in)  
 - 💼 Open to exciting opportunities in **Full Stack Development / AI / Security projects**  
 
+## ☕ Support Me  
+If you like my work, you can [buy me a coffee](https://www.buymeacoffee.com/ravindernegi) ❤️  
+
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-yellow?logo=buymeacoffee&logoColor=white&style=for-the-badge)](https://www.buymeacoffee.com/yourusername)
+
 ---
 ✨ *“Code is not just about solving problems, it’s about creating possibilities.”* ✨

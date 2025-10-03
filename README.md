@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Ravi  
 
-<!--
-**ravindernegiddn/ravindernegiddn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Developer | 5+ Years of Experience | Passionate Problem Solver**  
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I’m a **Full Stack Developer** with 5+ years of professional experience, building scalable applications and enterprise solutions. I love working on real-world challenges, solving problems with code, and continuously learning new technologies.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack & Tools
+
+- **Languages & Frameworks:** PHP, Node.js, Python, JavaScript, JSON, FastAPI, Laravel, CodeIgniter, Express, Angular, jQuery  
+- **Frontend:** HTML, CSS, Bootstrap  
+- **Tools & Platforms:** Git, Bitbucket, Docker, JIRA, CI/CD pipelines  
+- **Other Interests:** Distributed systems, API integrations, and scalable backend architectures  
+
+---
+
+## 🌟 Highlights of My Work
+
+### 🏛 Embassy Projects
+- **Italian Embassy Portal** – Developed a platform for **selling courses and memberships** for the embassy.
+
+### ⚡ Power & Energy Sector
+- **Oman Power Project (Kreate Technologies Pvt. Ltd)** – Built **AVIS (Automatic Invoice Verification System)**.  
+- **HVPN (Haryana Vidhyut Parasaran Nigam)** – Developed systems for **DSM & Imbalance Bill generation at scale**.  
+- **JBVNL (Jharkhand Bijli Vitran Nigam Limited)** – Built obligation billing systems, collaborated with the **Data Science team** to fetch and utilize forecasting models for power generation data.
+
+### 🌍 Startup Experience
+- **bnbme Holiday Homes (Dubai Startup)** – Designed & developed their **portal for apartment listing & booking**.  
+  - Integrated **Beds24 API** to synchronize bookings across multiple platforms in real-time.  
+
+---
+
+## 📌 Personal Traits
+
+- 🌱 **Eager Learner:** Always exploring new technologies and open to challenges.  
+- ❤️ **Passionate Coder:** Love turning real-world problems into software solutions.  
+- 💪 **Fitness Enthusiast:** Believe in keeping my body & mind in shape.  
+
+---
+
+## 🌐 Portfolio
+
+Check out my personal portfolio website 👉 [hodortech.in](http://hodortech.in)  
+
+---
+
+## 📊 GitHub Stats
+
+![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravi&show_icons=true&theme=radical)
+
+---
+
+## 📫 Let’s Connect!
+
+- 🌍 Portfolio: [hodortech.in](http://hodortech.in)  
+- 💼 Open to exciting opportunities in **Full Stack Development / AI / Security projects**  
+
+---
+✨ *“Code is not just about solving problems, it’s about creating possibilities.”* ✨

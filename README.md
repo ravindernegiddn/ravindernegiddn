@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ravi  
+# 👋 Hi, I'm Ravinder Negi
 
 🚀 **Full Stack Developer | 5+ Years of Experience | Passionate Problem Solver**  
 

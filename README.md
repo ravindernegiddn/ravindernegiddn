@@ -9,8 +9,8 @@ Welcome to my GitHub! I’m a **Full Stack Developer** with 5+ years of professi
 ## 💻 Tech Stack & Tools
 
 - **Languages & Frameworks:** PHP, Node.js, Python, JavaScript, JSON, FastAPI, Laravel, CodeIgniter, Express, Angular, jQuery  
-- **Frontend:** HTML, CSS, Bootstrap  
-- **Tools & Platforms:** Git, Bitbucket, Docker, JIRA, CI/CD pipelines  
+- **Frontend:** HTML, CSS, Bootstrap, React, Angular  
+- **Tools & Platforms:** Git, Bitbucket, Docker, JIRA, CI/CD pipelines, Kubernetes, Jenkins  
 - **Other Interests:** Distributed systems, API integrations, and scalable backend architectures  
 
 ---

@@ -36,7 +36,7 @@ Welcome to my GitHub! I’m a **Full Stack Developer** with 5+ years of professi
 
 ### 🔐 Enterprise & Cybersecurity
 - **3Pillar Global (Current)**  
-  Working as a **Senior Full Stack Developer** for a cybersecurity client, **:contentReference[oaicite:6]{index=6}**.  
+  Working as a **Senior Full Stack Developer** for a cybersecurity client, **Securonix**.  
   - Part of the core engineering team for one of their major products, **ThreatQ**, contributing to scalable, secure product development.
 ---
 

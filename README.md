@@ -30,12 +30,12 @@ Welcome to my GitHub! I’m a **Full Stack Developer** with 5+ years of professi
   - Integrated **Beds24 API** to synchronize bookings across multiple platforms in real-time.  
 
 ### 🤖 AI & LLM Training
-- **:contentReference[oaicite:4]{index=4}**  
+- **Codefeast**
   Worked as an **LLM Trainer**, contributing to **Amazon Agentic SysBench** and **NVIDIA SysBench** projects.  
   - Focused on training large language models using curated datasets and evaluation-driven workflows.
 
 ### 🔐 Enterprise & Cybersecurity
-- **:contentReference[oaicite:5]{index=5} (Current)**  
+- **3Pillar Global (Current)**  
   Working as a **Senior Full Stack Developer** for a cybersecurity client, **:contentReference[oaicite:6]{index=6}**.  
   - Part of the core engineering team for one of their major products, **ThreatQ**, contributing to scalable, secure product development.
 ---
